@@ -1,7 +1,7 @@
 f = open('4.txt')
 r = f.read()
 
-count = 0
+count = 1
 cmax = 0
 
 for i in range(0, len(r)-1):
